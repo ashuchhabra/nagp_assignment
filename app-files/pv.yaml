@@ -1,0 +1,13 @@
+apiVersion: v1
+kind: PersistentVolume
+metadata:
+  name: postgres-pv
+spec:
+  capacity:
+    storage: 1Gi
+  accessModes:
+    - ReadOnlyMany
+  persistentVolumeReclaimPolicy: Retain
+  gcePersistentDisk:
+    pdName: gke-ashu-cluster-default-pool-ad69276d-0bbp
+    fsType: ext4
