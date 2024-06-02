@@ -14,8 +14,8 @@ http://35.185.232.245:32080/data
 
 Below are the endpoints to ensure that external cluster IP is connecting to the node application.
 
-http://35.185.232.245:32080/ready
-http://35.185.232.245:32080/healthy
+http://35.185.232.245:32080/ready '/n'
+http://35.185.232.245:32080/healthy '/n'
 http://35.185.232.245:32080/data
 
 Screen Recording Link:
