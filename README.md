@@ -4,7 +4,7 @@ Project Description:
 
 For backend, I have used NodeJS and postgres as the database.
 
-Code Repo Link:
+Code Repo Link: https://github.com/ashuchhabra/nagp_assignment
 
 Docker Hub URL:
 https://hub.docker.com/repository/docker/ashuchhabra/node-app/tags
