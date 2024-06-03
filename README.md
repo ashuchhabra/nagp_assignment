@@ -19,5 +19,5 @@ http://35.185.232.245:32080/healthy
 http://35.185.232.245:32080/data
 
 Screen Recording Link:
-
+https://nagarro-my.sharepoint.com/:v:/r/personal/ashu_chhabra_nagarro_com/Documents/Desktop/NAGP/Devops%20Assignment/ashu_nagp_assignment/Ashu_Chhabra_3183176_Recording.mp4?csf=1&web=1&e=IILtPg
 
